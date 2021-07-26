@@ -1,0 +1,6 @@
+com\learning\sumit\bankApplication\controller\BankRestControllerMockTest.class
+com\learning\sumit\bankApplication\BankApplicationTests.class
+com\learning\sumit\bankApplication\service\UserServiceTest.class
+com\learning\sumit\bankApplication\service\UserServiceMockTest.class
+com\learning\sumit\bankApplication\controller\BankRestControllerTest.class
+com\learning\sumit\bankApplication\service\UserServiceTestNgTest.class
